@@ -1,5 +1,10 @@
 # Ejercicios usando c++
 
+
+Nota:
+--
+josechavezri/............0.................13.............0/13...........0
+
 Nombre:
 --
 
