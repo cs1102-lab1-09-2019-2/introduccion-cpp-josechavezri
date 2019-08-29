@@ -6,7 +6,7 @@ Nota:
 josechavezri/............0.................13.............0/13...........0
 
 Nombre:
---
+--Jose Antonio, Chavez Rivera
 
 Github Username:
 --
